@@ -1,0 +1,15 @@
+/Users/emanuelgarrido/Desktop/University/ejerciciosemana5/ejerciciosemana5/bin/Debug/net7.0/ejerciciosemana5
+/Users/emanuelgarrido/Desktop/University/ejerciciosemana5/ejerciciosemana5/bin/Debug/net7.0/ejerciciosemana5.deps.json
+/Users/emanuelgarrido/Desktop/University/ejerciciosemana5/ejerciciosemana5/bin/Debug/net7.0/ejerciciosemana5.runtimeconfig.json
+/Users/emanuelgarrido/Desktop/University/ejerciciosemana5/ejerciciosemana5/bin/Debug/net7.0/ejerciciosemana5.dll
+/Users/emanuelgarrido/Desktop/University/ejerciciosemana5/ejerciciosemana5/bin/Debug/net7.0/ejerciciosemana5.pdb
+/Users/emanuelgarrido/Desktop/University/ejerciciosemana5/ejerciciosemana5/obj/Debug/net7.0/ejerciciosemana5.csproj.AssemblyReference.cache
+/Users/emanuelgarrido/Desktop/University/ejerciciosemana5/ejerciciosemana5/obj/Debug/net7.0/ejerciciosemana5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emanuelgarrido/Desktop/University/ejerciciosemana5/ejerciciosemana5/obj/Debug/net7.0/ejerciciosemana5.AssemblyInfoInputs.cache
+/Users/emanuelgarrido/Desktop/University/ejerciciosemana5/ejerciciosemana5/obj/Debug/net7.0/ejerciciosemana5.AssemblyInfo.cs
+/Users/emanuelgarrido/Desktop/University/ejerciciosemana5/ejerciciosemana5/obj/Debug/net7.0/ejerciciosemana5.csproj.CoreCompileInputs.cache
+/Users/emanuelgarrido/Desktop/University/ejerciciosemana5/ejerciciosemana5/obj/Debug/net7.0/ejerciciosemana5.dll
+/Users/emanuelgarrido/Desktop/University/ejerciciosemana5/ejerciciosemana5/obj/Debug/net7.0/refint/ejerciciosemana5.dll
+/Users/emanuelgarrido/Desktop/University/ejerciciosemana5/ejerciciosemana5/obj/Debug/net7.0/ejerciciosemana5.pdb
+/Users/emanuelgarrido/Desktop/University/ejerciciosemana5/ejerciciosemana5/obj/Debug/net7.0/ejerciciosemana5.genruntimeconfig.cache
+/Users/emanuelgarrido/Desktop/University/ejerciciosemana5/ejerciciosemana5/obj/Debug/net7.0/ref/ejerciciosemana5.dll
